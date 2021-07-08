@@ -27,7 +27,7 @@ def add_up_time():
     content = input(">Message: ")
 
     payload = {'content': content, 'username': username}
-    r = requests.get('https://chat.5x.repl.co/post_chat.php', params=payload )
+    requests.get('https://chat.5x.repl.co/post_chat.php', params=payload )
 
 
 # designed to be called as a thread
