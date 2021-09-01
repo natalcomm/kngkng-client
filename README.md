@@ -8,3 +8,9 @@ python3 ./src/main.py
 Automatically refreshing messages.
 You can send message after pressing "Enter".
 
+## WEB
+
+You can try without installing.
+
+[https://replit.com/@5x/kongkongclient](https://replit.com/@5x/kongkongclient)
+
